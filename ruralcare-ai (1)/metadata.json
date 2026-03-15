@@ -1,0 +1,5 @@
+{
+  "name": "RuralCare AI",
+  "description": "Smart Remote Healthcare System with AI diagnostics, predictive analytics, and hospital recommendations.",
+  "requestFramePermissions": ["geolocation"]
+}
