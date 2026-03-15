@@ -1,8 +1,4 @@
-<div align="center">
-
-```
-RURALCARE AI
-```
+# Rural Care AI
 
 ### Bridging the Healthcare Divide — One Village at a Time
 
@@ -13,9 +9,7 @@ RURALCARE AI
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3+-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Vite](https://img.shields.io/badge/Vite-5+-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
 
-**A modern, AI-powered telemedicine platform** that connects rural patients with doctors — no long journeys, no waiting rooms. Built with a full-stack TypeScript architecture and Google Gemini AI.
-
-</div>
+A modern, AI-powered telemedicine platform that connects rural patients with doctors — no long journeys, no waiting rooms. Built with a full-stack TypeScript architecture and Google Gemini AI.
 
 ---
 
@@ -34,7 +28,7 @@ RURALCARE AI
 
 ## Overview
 
-**RuralCare** is a web-based telemedicine platform designed to connect rural patients with doctors in real time. In regions where hospitals are scarce, RuralPulse acts as a digital bridge — delivering remote consultations, AI-assisted health support, and role-based medical management from anywhere.
+**Rural Care AI** is a web-based telemedicine platform designed to connect rural patients with doctors in real time. In regions where hospitals are scarce, Rural Care AI acts as a digital bridge — delivering remote consultations, AI-assisted health support, and role-based medical management from anywhere.
 
 ---
 
@@ -104,7 +98,7 @@ AI LAYER
 ## Folder Structure
 
 ```
-RuralPulse/
+RuralCareAI/
 ├── src/
 │   ├── components/             # Reusable UI components
 │   ├── pages/
@@ -133,8 +127,8 @@ RuralPulse/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-org/ruralpulse.git
-cd ruralpulse
+git clone https://github.com/your-org/ruralcareai.git
+cd ruralcareai
 
 # 2. Install dependencies
 npm install
@@ -172,8 +166,4 @@ Open `http://localhost:5173` in your browser.
 
 ---
 
-<div align="center">
-
-**RuralPulse** — Empowering Rural Healthcare Through Technology
-
-</div>
+**Rural Care AI** — Empowering Rural Healthcare Through Technology
